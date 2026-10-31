@@ -74,7 +74,7 @@ ActiveEdge is a group project to build a sustainable, affordable sportswear bran
 
 **Team purpose, vision and member roles**
 
-![ActiveEdge Team Charter: team purpose and vision, and team members and roles](images/charter-purpose-and-roles.jpg)
+![ActiveEdge Team Charter: team purpose and vision, and team members and roles](https://github.com/Lebohang7/Portfolio-2/blob/d5a0b2a68d0ae8784fbc003535e7ca3c17e4091b/charter-smart-goals.jpg)
 
 **Communication plan and SMART goals**
 
