@@ -276,3 +276,5 @@ I navigated the GitHub settings to enable GitHub Pages and selected the appropri
 # Result
 
 I successfully published my portfolio as a live website, making it accessible to others through a public link. This experience improved my understanding of web deployment and gave me practical knowledge of how to present my work professionally online.
+
+🌐 **Live portfolio:** [lebohang7.github.io/Portfolio-2](https://lebohang7.github.io/Portfolio-2/)
