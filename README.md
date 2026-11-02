@@ -207,7 +207,7 @@ The logbook records our daily stand-ups. Each day answers three questions: what 
 </p>
 <p align="center"><em>Taskboard page of the logbook</em></p>
 
-**Full document (scroll to read):**
+**Full document (https://github.com/Lebohang7/Portfolio-2/blob/627bede136d2860d5500eb124e62af0c304a80c0/ActiveEdge_Team_Charter.pdf):**
 
 <iframe src="documents/Agile_Logbook.pdf" width="100%" height="700" style="border:1px solid #ccc; border-radius:6px;" title="Agile Logbook"></iframe>
 
